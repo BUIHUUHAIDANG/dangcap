@@ -1,0 +1,6 @@
+.env
+*.cbp  
+*.depend  
+*.layout  
+*/bin/*    
+*/obj/*
